@@ -21,7 +21,7 @@
     padding: 200px;
     background-image: url('images/banner/banner.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-position: bottom;
 
 }
 
